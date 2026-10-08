@@ -263,5 +263,5 @@ Tools, applications and libraries for working with glTF can be found in the [glT
 ---
 
 We believe the true usefulness of glTF goes beyond the spec itself; it is an ecosystem of tools, documentation, and extensions contributed by the community.  You are encouraged to [get involved](https://github.com/KhronosGroup/glTF/issues/456)!
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io
